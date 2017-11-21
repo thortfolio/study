@@ -1,10 +1,2 @@
-# Eclipse
-.project
-.metadata
-.settings
-
-# WebStorm
-.idea/
-
-# NodeJS
-node_modules/
+# Created by .ignore support plugin (hsz.mobi)
+roma/ppt

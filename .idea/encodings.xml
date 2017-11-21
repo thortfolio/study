@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/roma/task/fortress/app/scripts/Game.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/roma/task/fortress/app/scripts/Player.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/roma/task/fortress/app/scripts/Worm.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/roma/task/fortress/app/scripts/animation/Sprite.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/roma/task/fortress/app/scripts/environment/Terrain.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/roma/task/fortress/app/scripts/gui/CountDownTimer.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/roma/task/fortress/app/scripts/system/Utilies.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/roma/task/fortress/app/scripts/weapons/Dynamite.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/roma/task/fortress/app/scripts/weapons/ForceIndicator.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/roma/task/fortress/app/scripts/weapons/ThrowableWeapon.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/roma/task/fortress/app/styles/main.scss" charset="UTF-8" />
+  </component>
+</project>

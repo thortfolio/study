@@ -45,7 +45,7 @@ var Dynamite = (function (_super) {
     Dynamite.prototype.update = function () {
         if (this.getIsActive()) {
             this.sprite.update();
-            AssetManager.getSound("fuse").play(1);
+            //AssetManager.getSound("fuse").play(1);
             _super.prototype.update.call(this);
         }
     };

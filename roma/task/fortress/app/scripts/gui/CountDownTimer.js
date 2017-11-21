@@ -19,16 +19,16 @@ var CountDownTimer = (function () {
             this.timer.pause();
         this.timer.update();
         var timeLeft = Math.floor(this.timer.getTimeLeft() / 1000);
-        // Dont update the HTML element while 
+        // Dont update the HTML element while
         if (timeLeft != this.previousSecound && timeLeft >= 0) {
             if (timeLeft == 5) {
-                AssetManager.getSound("hurry").play();
+                //AssetManager.getSound("hurry").play();
             }
             this.previousSecound = timeLeft;
             $('#turnTimeCounter').html(timeLeft);
             if (timeLeft < Settings.TURN_TIME_WARING && timeLeft >= 0) {
                 $('#turnTimeCounter').css("background", "red");
-                AssetManager.getSound("TIMERTICK").play(0.3);
+                //AssetManager.getSound("TIMERTICK").play(0.3);
             }
             else {
                 $('#turnTimeCounter').css("background", "black");
